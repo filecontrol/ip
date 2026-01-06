@@ -9,8 +9,8 @@ http://str.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:-1,ATV Azerbaijan
 http://str.yodacdn.net/atv/index.m3u8
 
-#EXTINF:0, Space TV
+#EXTINF:-1, Space TV
 http://str.yodacdn.net/space/index.m3u8
 
-#EXTINF:0, Medeniyyet TV
+#EXTINF:-1, Medeniyyet TV
 http://str.yodacdn.net/medeniyyettele/index.m3u8
