@@ -223,3 +223,8 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 
 #EXTINF:-1 group-title="Rus",2TV Sport
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+#----------------- Filimlər -----------------
+
+#EXTINF:-1 group-title="Filim",Tron: Ares
+https://s16.photogrids.site/mt/IUWiov5OpzImYwVjZwHhI0IPYHEZYwRjBQOjYxEIDHjhrQV2AP1VER0d0zxpTuiqT9apzyxpl5mnKEys0xi16vr1b1080
