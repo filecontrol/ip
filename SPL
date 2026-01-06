@@ -19,7 +19,6 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Bütün Kanallar",NTV
 http://185.46.16.239:8000/TV3
-# (və s. bütün kanallar)
 
 #----------------- Azerbaycan -----------------
 #EXTINF:-1 group-title="Azerbaycan",AzTV
@@ -36,7 +35,6 @@ http://str.yodacdn.net/space/index.m3u8
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",ARB TV
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-# (və s. bütün Azərbaycan kanalları)
 
 #----------------- Türk -----------------
 #EXTINF:-1 group-title="Türk",TRT 1
@@ -47,7 +45,6 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Türk",SHOW TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-# (və s. bütün Türk kanalları)
 
 #----------------- Rus -----------------
 #EXTINF:-1 group-title="Rus",Perviy Kanal
@@ -60,4 +57,3 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/213/index.m3u8
 #EXTINF:-1 group-title="Rus",THT
 http://178.212.71.253:8000/play/19/index.m3u8
-# (və s. bütün Rus kanalları)
