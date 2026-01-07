@@ -5,13 +5,13 @@
 
 #----------------- Azerbaycan -----------------
 
-#EXTINF:-1 group-title="Azerbaycan",AzTV
+#EXTINF:0 group-title="Azerbaycan",AzTV
 http://str.yodacdn.net/azertv/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Ictimai
+#EXTINF:0 group-title="Azerbaycan",Ictimai
 http://str.yodacdn.net/ictimaitele/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ATV Azerbaijan
+#EXTINF:0 group-title="Azerbaycan",ATV Azerbaijan
 http://str.yodacdn.net/atv/index.m3u8
 
 #EXTINF:-1 group-title="Azerbaycan",Xazar
