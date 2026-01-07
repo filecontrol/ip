@@ -2,77 +2,78 @@
 
 #----------------- Azerbaycan -----------------
 
-#EXTINF:-1 group-title="Azerbaycan",AzTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Azərbaycan_Televiziya_logo_%282%29.png" group-title="Azerbaycan",AzTV
 http://str.yodacdn.net/azertv/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Ictimai
-http://str.yodacdn.net/ictimaitele/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaycan",ATV Azerbaijan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaycan",ATV Azerbaijan
 http://str.yodacdn.net/atv/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Xazar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ictimai_TV_logo.png" group-title="Azerbaycan",Ictimai
+http://str.yodacdn.net/ictimaitele/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Xazar_TV_logo.png" group-title="Azerbaycan",Xazar
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Space
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Space_TV_Azerbaijan_logo.png" group-title="Azerbaycan",Space
 http://str.yodacdn.net/space/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Medeniyyet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Medeniyyet_TV_logo.png" group-title="Azerbaycan",Medeniyyet
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ARB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ARB_TV_logo.png" group-title="Azerbaycan",ARB
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ARB 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ARB24_logo.png" group-title="Azerbaycan",ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ARB Gunesh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/ARB_Gunesh_logo.png" group-title="Azerbaycan",ARB Gunesh
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Real TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Real_TV_logo.png" group-title="Azerbaycan",Real TV
 http://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Dunya TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Dunya_TV_logo.png" group-title="Azerbaycan",Dunya TV
 http://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",MTV Azerbaijan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/MTV_Azerbaijan_logo.png" group-title="Azerbaycan",MTV Azerbaijan
 http://str.yodacdn.net/mtvaz/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Idman TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Idman_TV_logo.png" group-title="Azerbaycan",Idman TV
 http://str.yodacdn.net/idmantele/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",CBC Sport HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/CBC_Sport_logo.png" group-title="Azerbaycan",CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",CBC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/CBC_TV_logo.png" group-title="Azerbaycan",CBC TV
 http://str.yodacdn.net/cbc/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",BAKU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/BAKU_TV_logo.png" group-title="Azerbaycan",BAKU TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Naxcivan TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Naxcivan_TV_logo.png" group-title="Azerbaycan",Naxcivan TV
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",KANAL S
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kanal_S_logo.png" group-title="Azerbaycan",KANAL S
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",TMB Azerbaycan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TMB_Azerbaycan_logo.png" group-title="Azerbaycan",TMB Azerbaycan
 https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Qafqaz TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Qafqaz_TV_logo.png" group-title="Azerbaycan",Qafqaz TV
 https://str1.yodacdn.net/qafkaz/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",EL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/EL_TV_logo.png" group-title="Azerbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Show Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Show_Plus_logo.png" group-title="Azerbaycan",Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Biznes TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Biznes_TV_logo.png" group-title="Azerbaycan",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Kanal 35
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Kanal_35_logo.png" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+
 
 #----------------- Türk -----------------
 
