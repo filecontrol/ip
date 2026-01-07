@@ -5,7 +5,7 @@
 
 #----------------- Azerbaycan -----------------
 
-#EXTINF:0, AzTV
+#EXTINF:-1, AzTV
 #EXTGRP:PEYK TV
 http://str.yodacdn.net/azertv/index.m3u8
 
