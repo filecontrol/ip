@@ -5,7 +5,8 @@
 
 #----------------- Azerbaycan -----------------
 
-#EXTINF:-1 group-title="Azerbaycan",AzTV
+#EXTINF:0, AzTV
+#EXTGRP:PEYK TV
 http://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 group-title="Azerbaycan",Ictimai
