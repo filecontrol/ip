@@ -1,0 +1,122 @@
+#EXTM3U
+
+################################
+# AZƏRBAYCAN – RƏSMİ HLS
+################################
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="AzTV" group-title="AZ (HLS)",AzTV
+https://aztv-live.cdn.aztv.az/aztv/smil:aztv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="İctimai TV" group-title="AZ (HLS)",İctimai TV
+https://itv-live.cdn.itv.az/itv/smil:itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="İdman TV" group-title="AZ (HLS)",İdman TV
+https://idmantv-live.cdn.idmantv.az/idmantv/smil:idmantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="Mədəniyyət TV" group-title="AZ (HLS)",Mədəniyyət TV
+https://azculture.az/live/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="ARB 24" group-title="AZ (HLS)",ARB 24
+https://arb24.az/live/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="CBC TV" group-title="AZ (HLS)",CBC TV
+https://cbc.az/live/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="Space TV" group-title="AZ (HLS)",Space TV
+https://space.az/live/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="Khazar TV" group-title="AZ (HLS)",Khazar TV
+https://khazartv.az/live/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="Real TV" group-title="AZ (HLS)",Real TV
+# Note: realtv.az stream link not public — use YouTube below
+
+################################
+# TÜRKİYƏ – RƏSMİ HLS
+################################
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT 1" group-title="TR (HLS)",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT 2" group-title="TR (HLS)",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT Haber" group-title="TR (HLS)",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT Spor" group-title="TR (HLS)",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT Çocuk" group-title="TR (HLS)",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT Müzik" group-title="TR (HLS)",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT Belgesel" group-title="TR (HLS)",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+
+################################
+# RUSİYA – RƏSMİ HLS
+################################
+
+#EXTINF:-1 tvg-country="RU" tvg-name="Russia 24" group-title="RU (HLS)",Russia 24
+https://russia24.rt.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-country="RU" tvg-name="RT News" group-title="RU (HLS)",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-country="RU" tvg-name="RT Documentary" group-title="RU (HLS)",RT Documentary
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
+
+################################
+# RƏSMİ YOUTUBE CANALLARI – AZERBAYCAN
+################################
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="AzTV (YouTube)" group-title="AZ (YT)",AzTV YT
+https://www.youtube.com/watch?v=live_stream&channel=UCVf7OL0jKiO1OMHN_qaNf0w
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="İctimai TV (YouTube)" group-title="AZ (YT)",İctimai TV YT
+https://www.youtube.com/watch?v=live_stream&channel=UCCYhaH52lUEmfUjX-_OBAHg
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="Space TV (YouTube)" group-title="AZ (YT)",Space TV YT
+https://www.youtube.com/@spacetv-show/live
+
+#EXTINF:-1 tvg-country="AZ" tvg-name="CBC Sport (YouTube)" group-title="AZ (YT)",CBC Sport YT
+https://www.youtube.com/@CBCsport/live
+
+################################
+# RƏSMİ YOUTUBE CANALLARI – TÜRKİYƏ
+################################
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT Haber (YouTube)" group-title="TR (YT)",TRT Haber YT
+https://www.youtube.com/@TRT_Haber/live
+
+#EXTINF:-1 tvg-country="TR" tvg-name="TRT World (YouTube)" group-title="TR (YT)",TRT World YT
+https://www.youtube.com/@TRTWorld/live
+
+#EXTINF:-1 tvg-country="TR" tvg-name="NTV Türkiye (YouTube)" group-title="TR (YT)",NTV Türkiye YT
+https://www.youtube.com/@NTV_Turkiye/live
+
+#EXTINF:-1 tvg-country="TR" tvg-name="CNN Türk (YouTube)" group-title="TR (YT)",CNN Türk YT
+https://www.youtube.com/@cnnturk/live
+
+#EXTINF:-1 tvg-country="TR" tvg-name="Show TV (YouTube)" group-title="TR (YT)",Show TV YT
+https://www.youtube.com/@ShowTV/live
+
+################################
+# RƏSMİ YOUTUBE CANALLARI – RUSİYA
+################################
+
+#EXTINF:-1 tvg-country="RU" tvg-name="Channel One Russia (YouTube)" group-title="RU (YT)",1TV Russia YT
+https://www.youtube.com/@1tvru/live
+
+#EXTINF:-1 tvg-country="RU" tvg-name="Russia 24 (YouTube)" group-title="RU (YT)",Russia 24 YT
+https://www.youtube.com/@russia24tv/live
+
+#EXTINF:-1 tvg-country="RU" tvg-name="RT (English) (YouTube)" group-title="RU (YT)",RT English YT
+https://www.youtube.com/@RT_com/live
+
+#EXTINF:-1 tvg-country="RU" tvg-name="TVC (YouTube)" group-title="RU (YT)",TVC YT
+https://www.youtube.com/@tvc_live/live
