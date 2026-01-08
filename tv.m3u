@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg=""
 
 #----------------- Filimlər -----------------
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90720d3d-d9b3-406a-8ef0-d9a3c183d290/d34grog-117663eb-df1a-4f70-94a2-5c94be0db08e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85MDcyMGQzZC1kOWIzLTQwNmEtOGVmMC1kOWEzYzE4M2QyOTAvZDM0Z3JvZy0xMTc2NjNlYi1kZjFhLTRmNzAtOTRhMi01Yzk0YmUwZGIwOGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x_EUzgIwZQFkRsLWEdSE4it62Sg0A58yOtDFO2quDb4" group-title="Filimlər",The Dark Knight 2008
+#EXTINF:-1 tvg-logo="" group-title="Filimlər",The Dark Knight 2008
 https://vidrame.pro/vr/get/626b53b2/1080.txt
 
 
