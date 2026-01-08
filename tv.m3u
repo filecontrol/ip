@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #----------------- Filimlər -----------------
 
@@ -8,139 +8,138 @@ https://vidrame.pro/vr/get/626b53b2/1080.txt
 
 #----------------- Azerbaycan -----------------
 
-#EXTINF:-1 group-title="Azerbaycan",AzTV
+#EXTINF:-1 tvg-id="AzTV.az" group-title="Azerbaycan",AzTV
 http://str.yodacdn.net/azertv/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Ictimai
+#EXTINF:-1 tvg-id="Ictimai.az" group-title="Azerbaycan",Ictimai
 http://str.yodacdn.net/ictimaitele/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ATV Azerbaijan
+#EXTINF:-1 tvg-id="ATV.az" group-title="Azerbaycan",ATV Azerbaijan
 http://str.yodacdn.net/atv/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Xazar
+#EXTINF:-1 tvg-id="Xazar.az" group-title="Azerbaycan",Xazar
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Space
+#EXTINF:-1 tvg-id="Space.az" group-title="Azerbaycan",Space
 http://str.yodacdn.net/space/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Medeniyyet
+#EXTINF:-1 tvg-id="Medeniyyet.az" group-title="Azerbaycan",Medeniyyet
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ARB
+#EXTINF:-1 tvg-id="ARB.az" group-title="Azerbaycan",ARB
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ARB 24
+#EXTINF:-1 tvg-id="ARB24.az" group-title="Azerbaycan",ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",ARB Gunesh
+#EXTINF:-1 tvg-id="ARBGunesh.az" group-title="Azerbaycan",ARB Gunesh
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Real TV
+#EXTINF:-1 tvg-id="RealTV.az" group-title="Azerbaycan",Real TV
 http://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Dunya TV
+#EXTINF:-1 tvg-id="DunyaTV.az" group-title="Azerbaycan",Dunya TV
 http://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",MTV Azerbaijan
+#EXTINF:-1 tvg-id="MTVAz.az" group-title="Azerbaycan",MTV Azerbaijan
 http://str.yodacdn.net/mtvaz/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Idman TV
+#EXTINF:-1 tvg-id="IdmanTV.az" group-title="Azerbaycan",Idman TV
 http://str.yodacdn.net/idmantele/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",CBC Sport HD
+#EXTINF:-1 tvg-id="CBCSport.az" group-title="Azerbaycan",CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",CBC TV
+#EXTINF:-1 tvg-id="CBCTV.az" group-title="Azerbaycan",CBC TV
 http://str.yodacdn.net/cbc/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",BAKU TV
+#EXTINF:-1 tvg-id="BAKUTV.az" group-title="Azerbaycan",BAKU TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Naxcivan TV
+#EXTINF:-1 tvg-id="NaxcivanTV.az" group-title="Azerbaycan",Naxcivan TV
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",KANAL S
+#EXTINF:-1 tvg-id="KanalS.az" group-title="Azerbaycan",KANAL S
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",TMB Azerbaycan
+#EXTINF:-1 tvg-id="TMB.az" group-title="Azerbaycan",TMB Azerbaycan
 https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Qafqaz TV
+#EXTINF:-1 tvg-id="QafqazTV.az" group-title="Azerbaycan",Qafqaz TV
 https://str1.yodacdn.net/qafkaz/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",EL TV
+#EXTINF:-1 tvg-id="ELTV.az" group-title="Azerbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Show Plus
+#EXTINF:-1 tvg-id="ShowPlus.az" group-title="Azerbaycan",Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Biznes TV
+#EXTINF:-1 tvg-id="BiznesTV.az" group-title="Azerbaycan",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",Kanal 35
+#EXTINF:-1 tvg-id="Kanal35.az" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 
 
 #----------------- Türk -----------------
 
-#EXTINF:-1 group-title="Türk",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="Türk",TRT 1
 http://95.174.71.114/TR-TRT1/index.m3u8
 
-#EXTINF:-1 group-title="Türk",TRT Avaz
+#EXTINF:-1 tvg-id="TRTAvaz.tr" group-title="Türk",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 group-title="Türk",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Türk",TRT Belgesel
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Türk",TRT Cocuk
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Türk",TRT Cocuk
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Türk",ATV
+#EXTINF:-1 tvg-id="ATV.tr" group-title="Türk",ATV
 http://65.108.239.207/atv/index.m3u8
 
-#EXTINF:-1 group-title="Türk",STAR TV
+#EXTINF:-1 tvg-id="StarTV.tr" group-title="Türk",STAR TV
 http://66.160.192.241/startvturk/index.m3u8
 
-#EXTINF:-1 group-title="Türk",KANAL D
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="Türk",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
-#EXTINF:-1 group-title="Türk",SHOW TV
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="Türk",SHOW TV
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
-#EXTINF:-1 group-title="Türk",DMAX
+#EXTINF:-1 tvg-id="DMAX.tr" group-title="Türk",DMAX
 http://116.202.238.88:80/DMAX_TR/index.m3u8
 
-#EXTINF:-1 group-title="Türk",TV8
+#EXTINF:-1 tvg-id="TV8.tr" group-title="Türk",TV8
 http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Türk",NOW TV
+#EXTINF:-1 tvg-id="NowTV.tr" group-title="Türk",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
-#EXTINF:-1 group-title="Türk",KANAL 7
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="Türk",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 group-title="Türk",TV 8.5
+#EXTINF:-1 tvg-id="TV85.tr" group-title="Türk",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 
-#EXTINF:-1 group-title="Türk",BEYAZ TV
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="Türk",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 group-title="Türk",TEVE 2
+#EXTINF:-1 tvg-id="Teve2.tr" group-title="Türk",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 group-title="Türk",A2 TV
+#EXTINF:-1 tvg-id="A2TV.tr" group-title="Türk",A2 TV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 group-title="Türk",SHOW MAX
+#EXTINF:-1 tvg-id="ShowMax.tr" group-title="Türk",SHOW MAX
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 
-#EXTINF:-1 group-title="Türk",360 TV
+#EXTINF:-1 tvg-id="360TV.tr" group-title="Türk",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 group-title="Türk",TV4
+#EXTINF:-1 tvg-id="TV4.tr" group-title="Türk",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTM3U
 
 #----------------- Rus Kanalları -----------------
 
@@ -230,4 +229,5 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 
 #EXTINF:-1 group-title="Rus",2TV Sport
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
 
