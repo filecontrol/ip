@@ -34,7 +34,7 @@ http://str.yodacdn.net/atv/index.m3u8
 #EXTINF:-1 tvg-id="Xazar.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="Azerbaycan",Xazar
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
-#EXTINF:-1 tvg-id="Space.az" tvg-logo="https://az.wikipedia.org/wiki/Space_TV#/media/Fayl:Space_TV_loqosu_(2025).png" group-title="Azerbaycan",Space
+#EXTINF:-1 tvg-id="Space.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Space_TV_loqosu_%282025%29.png" group-title="Azerbaycan",Space
 http://str.yodacdn.net/space/index.m3u8
 
 #EXTINF:-1 tvg-id="Medeniyyet.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" group-title="Azerbaycan",Medeniyyet
