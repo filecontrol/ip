@@ -91,7 +91,7 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="BiznesTV.az" tvg-logo="" group-title="Azerbaycan",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Kanal35.az" tvg-logo="" group-title="Azerbaycan",Kanal 35
+#EXTINF:-1 tvg-id="Kanal35.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b6/Kanal_35_%28loqo%29.png" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 
 
