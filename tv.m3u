@@ -64,34 +64,34 @@ http://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="Azerbaycan",CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBCTV.az" tvg-logo="" group-title="Azerbaycan",CBC TV
+#EXTINF:-1 tvg-id="CBCTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="Azerbaycan",CBC TV
 http://str.yodacdn.net/cbc/index.m3u8
 
-#EXTINF:-1 tvg-id="BAKUTV.az" group-title="Azerbaycan",BAKU TV
+#EXTINF:-1 tvg-id="BAKUTV.az" tvg-logo="" group-title="Azerbaycan",BAKU TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 
-#EXTINF:-1 tvg-id="NaxcivanTV.az" group-title="Azerbaycan",Naxcivan TV
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="" group-title="Azerbaycan",Naxcivan TV
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="KanalS.az" group-title="Azerbaycan",KANAL S
+#EXTINF:-1 tvg-id="KanalS.az" tvg-logo="" group-title="Azerbaycan",KANAL S
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 tvg-id="TMB.az" group-title="Azerbaycan",TMB Azerbaycan
+#EXTINF:-1 tvg-id="TMB.az" tvg-logo="" group-title="Azerbaycan",TMB Azerbaycan
 https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="QafqazTV.az" group-title="Azerbaycan",Qafqaz TV
+#EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="" group-title="Azerbaycan",Qafqaz TV
 https://str1.yodacdn.net/qafkaz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ELTV.az" group-title="Azerbaycan",EL TV
+#EXTINF:-1 tvg-id="ELTV.az" tvg-logo="" group-title="Azerbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ShowPlus.az" group-title="Azerbaycan",Show Plus
+#EXTINF:-1 tvg-id="ShowPlus.az" tvg-logo="" group-title="Azerbaycan",Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 tvg-id="BiznesTV.az" group-title="Azerbaycan",Biznes TV
+#EXTINF:-1 tvg-id="BiznesTV.az" tvg-logo="" group-title="Azerbaycan",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Kanal35.az" group-title="Azerbaycan",Kanal 35
+#EXTINF:-1 tvg-id="Kanal35.az" tvg-logo="" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 
 
