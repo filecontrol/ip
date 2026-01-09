@@ -31,7 +31,7 @@ http://str.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:-1 tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaycan",ATV Azerbaijan
 http://str.yodacdn.net/atv/index.m3u8
 
-#EXTINF:-1 tvg-id="Xazar.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="Azerbaycan",Xazar
+#EXTINF:-1 tvg-id="Xazar.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/archive/3/3d/20161026180740%21X%C9%99z%C9%99r_TV_loqo.png" group-title="Azerbaycan",Xazar
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 #EXTINF:-1 tvg-id="Space.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Space_TV_loqosu_%282025%29.png" group-title="Azerbaycan",Space
