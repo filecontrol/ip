@@ -49,19 +49,19 @@ http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:-1 tvg-id="ARBGunesh.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b8/ARB_G%C3%BCn%C9%99%C5%9F.png" group-title="Azerbaycan",ARB Gunəş
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="" group-title="Azerbaycan",Real TV
+#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Real_TV_loqosu_%282018%29.png" group-title="Azerbaycan",Real TV
 http://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="" group-title="Azerbaycan",Dunya TV
+#EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azerbaycan",Dunya TV
 http://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 
-#EXTINF:-1 tvg-id="MTVAz.az" tvg-logo="" group-title="Azerbaycan",MTV Azerbaijan
+#EXTINF:-1 tvg-id="MTVAz.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/MTV_Azerbaijan_%282022%29.png" group-title="Azerbaycan",MTV Azerbaijan
 http://str.yodacdn.net/mtvaz/index.m3u8
 
-#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="" group-title="Azerbaycan",Idman TV
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png" group-title="Azerbaycan",Idman TV
 http://str.yodacdn.net/idmantele/index.m3u8
 
-#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="" group-title="Azerbaycan",CBC Sport HD
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="Azerbaycan",CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBCTV.az" tvg-logo="" group-title="Azerbaycan",CBC TV
