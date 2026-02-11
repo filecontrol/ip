@@ -1,6 +1,7 @@
 #EXTM3U url-tvg=""
 
 #----------------- Filimlər -----------------
+
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/81/ShawshankRedemptionMoviePoster.jpg",The Shawshank Redemption 1994
 https://dc02.dzeninfra.com/2392/index.m3u8
 
@@ -51,6 +52,21 @@ https://vidrame.pro/vr/get/c97433f1/1080.txt
 
 #EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/20/Tenet_filminin_g%C3%BCncel_T%C3%BCrk%C3%A7e_afi%C5%9Fi.jpg",Tenet 2020
 https://vidrame.pro/vr/get/2bdfdf84/1080.txt
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",Inception 2010
+https://srv09.jtfiz.click/30179/index.m3u8
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg",Back to the Future Part I 1985
+https://vidrame.pro/vr/get/0a181236/1080.txt
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Back_to_the_Future_Part_II.jpg",Back to the Future Part II 1989
+https://vidrame.pro/vr/get/72b5a13f/1080.txt
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Back_to_the_Future_Part_III.jpg",Back to the Future Part III 1990
+link
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Togo_film_poster.jpg",Togo 2019
+https://vidrame.pro/vr/get/6998b977/1080.txt
 
 #----------------- Stranger Things -----------------
 
