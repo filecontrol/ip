@@ -1,7 +1,5 @@
 #EXTM3U url-tvg=""
 
-#----------------- Filimlər -----------------
-
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/81/ShawshankRedemptionMoviePoster.jpg",The Shawshank Redemption 1994
 https://dc02.dzeninfra.com/2392/index.m3u8
 
@@ -57,7 +55,7 @@ https://vidrame.pro/vr/get/c97433f1/1080.txt
 https://vidrame.pro/vr/get/2bdfdf84/1080.txt
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",Inception 2010
-https://srv09.jtfiz.click/30179/index.m3u8
+https://vidmody.com/mm/tt1375666/main/index-v1-a1.gif
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg",Back to the Future Part I 1985
 https://vidrame.pro/vr/get/0a181236/1080.txt
@@ -66,7 +64,7 @@ https://vidrame.pro/vr/get/0a181236/1080.txt
 https://vidrame.pro/vr/get/72b5a13f/1080.txt
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Back_to_the_Future_Part_III.jpg",Back to the Future Part III 1990
-link
+https://cdn19.my.mail.ru/hv/70473906.mp4/stream.mpd?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9091%2Fvideo4%2F70473906-hv&p=f&video_key=b4cd1072053dbb97be9db0340049bdf2b38d7ce1&expire_at=1770940800&touch=1595510932&reg=219&sign=64201bb3a00524fe575364fb69a55f043b2efe57&selected_id=video/1
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Togo_film_poster.jpg",Togo 2019
 https://vidrame.pro/vr/get/6998b977/1080.txt
@@ -76,6 +74,12 @@ https://vidrame.pro/vr/get/1c9bff46/1080.txt
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Sherlock_Holmes_A_Game_of_Shadows_poster.jpg",Sherlock Holmes: A Game of Shadows 2011
 https://vidrame.pro/vr/get/74ee5312/1080.txt
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/aa/John_carter_poster.jpg",John Carter 2012
+https://vidrame.pro/vr/get/0f51c8de/1080.txt
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/df/Arrival%2C_Movie_Poster.jpg",Arrival 2016
+https://vidrame.pro/vr/get/0719325f/1080.txt
 
 
 #----------------- Stranger Things -----------------
