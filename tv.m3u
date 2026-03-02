@@ -1,8 +1,6 @@
 #EXTM3U url-tvg=""
 
 #----------------- Filimlər -----------------
-#EXTINF:-1 group-title="Filimlər" tvg-logo="",V For vandetda
-https://s3.gelsistirire.cfd:183/d/zanjposksk3rtzj52xwrrrmkcrvfr5e4foqygyhty3c7tdwbcx4gztt2wr2asqj2mbyqw5tq/r9e543eto5qc.mp4
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/81/ShawshankRedemptionMoviePoster.jpg",The Shawshank Redemption 1994
 https://s3.gelsistirire.cfd:183/d/zano3o2ksk3rtzj52xwrvwuniwaxsjp5zb37p7bsrf57ctkasn455raihzbuqks57peribhp/r4h32l967txl.mp4
@@ -111,6 +109,9 @@ https://vidrame.pro/vr/get/70b22339/1080.txt
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png",Kingsman: The Golden Circle 2017
 https://vidrame.pro/vr/get/99a6e571/1080.txt
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Vforvendettamov.jpg",V for Vendetta 2005
+https://s3.gelsistirire.cfd:183/d/zanjposksk3rtzj52xwrrrmkcrvfr5e4foqygyhty3c7tdwbcx4gztt2wr2asqj2mbyqw5tq/r9e543eto5qc.mp4
 
 #----------------- Stranger Things -----------------
 
@@ -314,7 +315,6 @@ http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Kanal35.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b6/Kanal_35_%28loqo%29.png" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
-
 
 #----------------- Türk -----------------
 
