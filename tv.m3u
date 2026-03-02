@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 
 #----------------- Filimlər -----------------
+#EXTINF:-1 group-title="Filimlər" tvg-logo="",V For vandetda
+https://s3.gelsistirire.cfd:183/d/zanjposksk3rtzj52xwrrrmkcrvfr5e4foqygyhty3c7tdwbcx4gztt2wr2asqj2mbyqw5tq/r9e543eto5qc.mp4
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/81/ShawshankRedemptionMoviePoster.jpg",The Shawshank Redemption 1994
 https://dc02.dzeninfra.com/2392/index.m3u8
