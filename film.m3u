@@ -2,6 +2,33 @@
 
 #----------------- Filimlər -----------------
 
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png",Gladiator 2000
+link
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/The_Pianist_movie.jpg",The Pianist 2002
+link
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",Interstellar 2014
+link
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/36/Matrix-film.jpg/250px-Matrix-film.jpg",The Matrix 1999
+link
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg",The Matrix Reloaded 2003
+link
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/The-matrix-revolutions_oxlati6t.png",The Matrix Revolutions 2003
+https://vidrame.pro/vr/get/24bb3e90/1080.txt
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/The_Matrix_Resurrections.jpg",The Matrix Resurrections 2021
+https://s3.gelsistirire.cfd:183/d/zanjfs2esk3rtzj563wqhqevcxmlfjwajphqcox5sb5v63tjtpettekt5iesq54idbgmtsf3/c39irkwhv4wx.mp4
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",Inception 2010
+https://s3.gelsistirire.cfd:183/d/zana5o2ksk3rtzj52xwrfxepcor4w4l42xcmxr5lztde43gx4kwpj733t4mwdzr3eico2uyd/3ucbctb9h6zt.mp4
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/59/Forrest_Qamp_%28film%2C_1994%29.jpg",Forrest Gump 1994
+https://vidrame.pro/vr/get/56468d90/1080.txt
+
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",The Lord of the Rings: The Fellowship of the Ring 2001
 https://s3.gelsistirire.cfd:183/d/zanelokksk3rtzj52lwqnqeedkgcyvhplln4ahj3mlccjos24t6arbdumm62ps2kerpfg5pl/yk832g0vvhzu.mp4
 
@@ -16,7 +43,4 @@ https://vidrame.pro/vr/get/626b53b2/1080.txt
 
 #EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/81/ShawshankRedemptionMoviePoster.jpg",The Shawshank Redemption 1994
 https://s3.gelsistirire.cfd:183/d/zano3o2ksk3rtzj52xwrvwuniwaxsjp5zb37p7bsrf57ctkasn455raihzbuqks57peribhp/r4h32l967txl.mp4
-
-
-
 
