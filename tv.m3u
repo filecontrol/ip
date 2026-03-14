@@ -8,6 +8,18 @@ rtsp://user:U1s2e3r4!@192.168.0.10:554/cam/realmonitor?channel=1&subtype=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 1 Bölüm
 https://vidrame.pro/vr/get/583abc4d/1080.txt
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 2 Bölüm
+https://vidrame.pro/vr/get/baf0b930/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 3 Bölüm
+https://vidrame.pro/vr/get/b9626fac/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 4 Bölüm
+https://vidrame.pro/vr/get/2b1bcc46/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 5 Bölüm
+https://vidrame.pro/vr/get/8debae0a/1080.txt
+
 
 #----------------- Filimlər -----------------
 
