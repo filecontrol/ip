@@ -3,6 +3,11 @@
 #EXTINF:-1 group-title="Kamera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/IQ_Invision00031.jpg",Kamera
 rtsp://user:U1s2e3r4!@192.168.0.10:554/cam/realmonitor?channel=1&subtype=0
 
+#----------------- Game of Thrones -----------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 1 Bölüm
+https://vidrame.pro/vr/get/583abc4d/1080.txt
+
 
 #----------------- Filimlər -----------------
 
