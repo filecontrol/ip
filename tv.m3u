@@ -3,7 +3,82 @@
 #EXTINF:-1 group-title="Kamera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/IQ_Invision00031.jpg",Kamera
 rtsp://user:U1s2e3r4!@192.168.0.10:554/cam/realmonitor?channel=1&subtype=0
 
+#----------------- Game of Thrones -----------------
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 1 Bölüm
+https://vidrame.pro/vr/get/583abc4d/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 2 Bölüm
+https://vidrame.pro/vr/get/baf0b930/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 3 Bölüm
+https://vidrame.pro/vr/get/b9626fac/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 4 Bölüm
+https://vidrame.pro/vr/get/2b1bcc46/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 5 Bölüm
+https://vidrame.pro/vr/get/8debae0a/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 6 Bölüm
+https://vidrame.pro/vr/get/43c88919/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 7 Bölüm
+https://vidrame.pro/vr/get/94e1a218/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 8 Bölüm
+https://vidrame.pro/vr/get/817ac771/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 9 Bölüm
+https://vidrame.pro/vr/get/1bb12d75/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg" group-title="Game of Thrones",Game of Thrones 1. Sezon 10 Bölüm
+https://vidrame.pro/vr/get/022962ae/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 1 Bölüm
+https://vidrame.pro/vr/get/8c34093f/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 2 Bölüm
+https://vidrame.pro/vr/get/f29cd918/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 3 Bölüm
+https://vidrame.pro/vr/get/a41ced88/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 4 Bölüm
+https://vidrame.pro/vr/get/81b56777/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 5 Bölüm
+https://vidrame.pro/vr/get/b452d036/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 6 Bölüm
+https://vidrame.pro/vr/get/2a44f4cd/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 7 Bölüm
+https://vidrame.pro/vr/get/583a5079/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 8 Bölüm
+https://vidrame.pro/vr/get/863f935d/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 9 Bölüm
+https://vidrame.pro/vr/get/94f217e3/1080.txt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/56/Game_of_Thrones_2.jpg" group-title="Game of Thrones",Game of Thrones 2. Sezon 10 Bölüm
+https://vidrame.pro/vr/get/ad27655f/1080.txt
+
+#EXTINF:-1 tvg-logo="" group-title="Game of Thrones",Game of Thrones 4. Sezon 6 Bölüm
+https://vidrame.pro/vr/get/8f9165cb/1080.txt
+
+#EXTINF:-1 tvg-logo="" group-title="Game of Thrones",Game of Thrones 4. Sezon 7 Bölüm
+https://vidrame.pro/vr/get/fe2bd8fe/1080.txt
+
+#EXTINF:-1 tvg-logo="" group-title="Game of Thrones",Game of Thrones 4. Sezon 8 Bölüm
+https://vidrame.pro/vr/get/6fc8a6df/1080.txt
+
+#EXTINF:-1 tvg-logo="" group-title="Game of Thrones",Game of Thrones 4. Sezon 9 Bölüm
+https://vidrame.pro/vr/get/f650a0e7/1080.txt
+
+#EXTINF:-1 tvg-logo="" group-title="Game of Thrones",Game of Thrones 4. Sezon 10 Bölüm
+https://vidrame.pro/vr/get/64a19ef8/720.txt
 
 
 #----------------- Filimlər -----------------
