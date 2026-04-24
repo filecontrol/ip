@@ -1,10 +1,10 @@
 #EXTM3U url-tvg=""
 
+#EXTINF:-1 group-title="" tvg-logo="",Kamera
+https://vidrame.pro/vr/get/33140e60/1080.txt
+
 #EXTINF:-1 group-title="Kamera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/IQ_Invision00031.jpg",Kamera
 rtsp://user:U1s2e3r4!@192.168.0.10:554/cam/realmonitor?channel=1&subtype=0
-
-#EXTINF:-1 group-title="Kamera" tvg-logo="",Kamera
-https://vidrame.pro/vr/get/33140e60/1080.txt
 
 #----------------- Game of Thrones -----------------
 
