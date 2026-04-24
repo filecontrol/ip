@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 group-title="" tvg-logo="",Kamera
+#EXTINF:-1 group-title="111" tvg-logo="",Kamera
 https://vidrame.pro/vr/get/33140e60/1080.txt
 
 #EXTINF:-1 group-title="Kamera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/IQ_Invision00031.jpg",Kamera
